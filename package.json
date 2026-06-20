@@ -1,7 +1,7 @@
 {
-  "name": "heitoragenda",
+  "name": "lopes-barber",
   "version": "1.0.0",
-  "description": "Agenda Heitor",
+  "description": "Lopes Barber",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
